@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ball Sort Auto</string>
+    <string name="service_desc">ใช้อ่านภาพหน้าจอเกม และแตะหน้าจอแทนคุณเมื่อกดปุ่มลอย เพื่อแก้เกมเรียงลูกบอลอัตโนมัติ</string>
+</resources>
